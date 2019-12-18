@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"5df81ba6166edb75b2190f19"},"first_name":"Nikola","last_name":"Tesla","birthdate":"1956-07-10"},{"_id":{"$oid":"5df81beb166edb75b2190f1a"},"first_name":"Albert","last_name":"Einstein","birthdate":"1979-03-14"},{"_id":{"$oid":"5df81c6c166edb75b2190f1b"},"first_name":"Thomas","last_name":"Edison","birthdate":"1947-02-11"}]

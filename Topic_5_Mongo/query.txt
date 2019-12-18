@@ -1,0 +1,10 @@
+
+-- Fetch all courses ordered by name for a given teacher.
+
+db.courses.find({"teacher_assigned":[{"_id" : ObjectId("5df81ba6166edb75b2190f19")}]})
+
+
+
+-- Fetch all students whose notes in a specific course were greater than 4.
+
+db.notes.find({final_note:{$gt:"4"}},{student_id:"1",final_note:"1"})
