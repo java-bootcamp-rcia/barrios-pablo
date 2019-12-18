@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"5df82ff9166edb75b2190f22"},"start_hour":"08:00:00","end_hour":"10:00:00","week_days":[{"day":"Monday"}]},{"_id":{"$oid":"5df83dd0166edb75b2190f23"},"start_hour":"10:00:00","end_hour":"12:00:00","week_days":[{"_id":{"$oid":"5df82097166edb75b2190f1c"}}]}]
